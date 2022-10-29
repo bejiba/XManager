@@ -1,4 +1,4 @@
-### [XManager Installation Instructions](https://github.com/xcode75/XManager/wiki)
+### [XManager Installation Instructions](https://github.com/bejiba/XManager/wiki)
 
 ![](https://raw.githubusercontent.com/xcode75/XManager/main/img/xmanager.png)
 
